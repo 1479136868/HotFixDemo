@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 424774328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d64769d58d59db89f7145e8fc18eb59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60fef5ad0a4038542d2122e46dcc34a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sphere.prefab
+Dependencies:
+- "F:/UnityProject/HotFixProject/AB/1.0.5/AssetBundle/materials/\u793E\u4F1A\u4E3B\u4E49\u6838\u5FC3\u4EF7\u503C\u89C2.u3d"
